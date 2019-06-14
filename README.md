@@ -12,4 +12,4 @@ Also unfortunately, that is the entirety of what you've been told. And the mayor
 
 ## Summary
 
-This project was an opportunity to practise exploratory data analysis, using Pandas, NumPy, Matplotlib and Seaborn to explore, analysis and visualise two data sets (a drug use by age data set and a SAT score by state data set). 
+This project was an opportunity to practice exploratory data analysis, using Pandas, NumPy, Matplotlib and Seaborn to explore, analysis and visualise two data sets (a drug use by age data set and a SAT score by state data set). 
